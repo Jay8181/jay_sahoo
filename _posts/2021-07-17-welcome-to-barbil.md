@@ -4,9 +4,9 @@ title:  "Barbil : The Iron Capital"
 date:   2021-07-17 15:36:01 +0530
 categories: jekyll update
 permalink: /my-new-url/test
-image: /assets/images/mines1.jpg
+image: /assets/images/mines1.JPG
 ---
-<img src="/assets/images/mines1.jpg" alt="Jai Ho">
+<img src="/assets/images/mines1.JPG" alt="Jai Ho">
 <h2>Barbil:</h2> A small town loacted in the lap of Serenda Forests is well known for its rich iron deposits and manganese. Barbil stands as the place having world's fifth largest iron ore deposits.
 Barbil comes under the district Keonjhar in the state Odisha.
 <br>
@@ -28,10 +28,10 @@ Barbil is an industrialized town with a number of steel plants, iron ore pellet 
 </style>   
      
  <div class = "images-container">
-  <img src="/assets/images/img101.jpg" width = "300" height = "200">
-  <img src="/assets/images/img102.jpg" width = "300" height = "200">
-  <img src="/assets/images/img103.jpg" width = "300" height = "200">  
-   <img src="/assets/images/img104.jpg" width = "300" height = "200"> 
+  <img src="/assets/images/img101.JPG" width = "300" height = "200">
+  <img src="/assets/images/img102.JPG" width = "300" height = "200">
+  <img src="/assets/images/img103.JPG" width = "300" height = "200">  
+   <img src="/assets/images/img104.JPG" width = "300" height = "200"> 
 
   
 <br>
@@ -63,10 +63,10 @@ Sanaghagra Waterfalls
 Ghatgaon
 
 <div class = "images-container">
-  <img src="/assets/images/khandadhar-falls.jpg" width = "300" height = "200">
-  <img src="/assets/images/maa-tarini-temple-ghatgaon3.jpg" width = "300" height = "200">
-  <img src="/assets/images/Kiriburu-Jharkhand-e1545161039334.jpg" width = "300" height = "200">  
-   <img src="/assets/images/Murga-Mahadev-Falls-Barbil.jpg" width = "300" height = "200"> 
+  <img src="/assets/images/khandadhar-falls.JPG" width = "300" height = "200">
+  <img src="/assets/images/maa-tarini-temple-ghatgaon3.JPG" width = "300" height = "200">
+  <img src="/assets/images/Kiriburu-Jharkhand-e1545161039334.JPG" width = "300" height = "200">  
+   <img src="/assets/images/Murga-Mahadev-Falls-Barbil.JPG" width = "300" height = "200"> 
 <br>
 
 
