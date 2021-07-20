@@ -21,7 +21,7 @@ text-align: center;
 </head>  
 <body>  
 <div id ="center">  
-<img src="/assets/images/myown.jpg" alt="Jai Ho" width="100" height="150">
+<img src="https://jay8181.github.io/jay_sahoo/about/assets/images/myown.jpg" alt="Jai Ho" width="100" height="150">
 </div>  
 </body>  
 </html>  
